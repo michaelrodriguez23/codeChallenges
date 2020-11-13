@@ -31,7 +31,7 @@ public class Solution {
         int sum = 0; 
         
         for(pointA = 0; pointA <= length; pointA++ ){
-            // if the key already exist subtract the sum; t
+
      if(mappy.containsKey(arr[pointA])){
          sum -= arr[pointA];
         
