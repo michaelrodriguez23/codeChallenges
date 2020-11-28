@@ -1,7 +1,5 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+https://www.codewars.com/kata/58f8a3a27a5c28d92e000144/train/java
  */
 package com.mr.firstnonconsequetive;
 
